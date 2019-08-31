@@ -16,7 +16,7 @@ Deployed on Heroku: []
 - express
 - Axios
 - Cheerios
-- Logger - morgan
+- morgan
 - path
 - bootstrap
 - MongoDB
